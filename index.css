@@ -34,7 +34,7 @@ ul {
     display: block;
     color: white;
     text-align: center;
-    left: 119px;
+    left: 150px;
     padding: 14px 16px;
     margin-left: 15px;
     text-decoration: none;
@@ -76,6 +76,23 @@ button:hover {
   margin-top: 20px;
   margin-left: 20px;
   width: 250px;
+  height: 250px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+  overflow: hidden;
+  border-radius: 5px;
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.item1 {
+  cursor: pointer;
+  background: rgba(47, 47, 58, 0.668);
+  display: inline-block;
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 350px;
   height: 250px;
   box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
   overflow: hidden;
